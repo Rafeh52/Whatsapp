@@ -60,7 +60,7 @@ body{
 }
 ::placeholder{
   color: #d1d7db;
-  padding-left: 0px;
+  padding-left: 30px;
 }
 .s::placeholder{
   color: #d1d7db;
